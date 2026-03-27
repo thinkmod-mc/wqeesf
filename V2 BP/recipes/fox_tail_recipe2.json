@@ -1,0 +1,17 @@
+{
+  "format_version": "1.12.0",
+  "minecraft:recipe_shaped": {
+    "description": { "identifier": "pa:recipe_fox_002" },
+    "tags": [ "crafting_table" ],
+    "pattern": [
+      "CCC",
+      "CCC",
+      "CCC"
+    ],
+    "key": {
+      "C": { "item": "minecraft:cobblestone" }
+   
+    },
+    "result": { "item": "pa:model_fox_002_fi" }
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "format_version": 1,
+  "header": {
+    "description": " Bản mở rộng 9 Đuôi Cáo V2|§4Nguồn mô hình 3D gốc: §6§lINFINITY G4 | §aLập trình tính năng & Chỉnh sửa bởi: §e§lTiktok t._mc5 (T_MC) ",
+    "name": "Đuôi Cáo V2 §e§lTiktok t._mc5 (T_MC) ",
+    "uuid": "2f87a159-b103-455b-8664-d360f08e7c1c",
+    "version": [
+      0,
+      0,
+      1
+    ],
+    "min_engine_version": [
+      0,
+      0,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "description": " Bản mở rộng 9 Đuôi Cáo V2|§4Nguồn mô hình 3D gốc: §6§lINFINITY G4 | §aLập trình tính năng & Chỉnh sửa bởi: §e§lTiktok t._mc5 (T_MC) ",
+      "type": "resources",
+      "uuid": "835a9bd6-2396-4171-8bca-73130c279c65",
+      "version": [
+        0,
+        0,
+        1
+      ]
+    }
+  ],
+  "dependencies": [
+    {
+      "uuid": "4fc65a83-9b93-4a18-80e5-79d8c03e2c14",
+      "version": [
+        0,
+        0,
+        1
+      ]
+    }
+  ]
+}
